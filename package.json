@@ -1,0 +1,53 @@
+{
+  "name": "nodepracitise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Js_localvscokkievssession.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@blurtfoundation/blurtjs": "^0.1.1",
+    "app-root-path": "^3.0.0",
+    "axios": "^0.20.0",
+    "crypto": "^1.0.1",
+    "curl": "^0.1.4",
+    "digest-fetch": "^1.1.5",
+    "dotenv": "^8.2.0",
+    "eslint-config-prettier": "^7.1.0",
+    "eslint-plugin-node": "^11.1.0",
+    "extends-classes": "^1.0.5",
+    "fast2sms": "^1.0.3",
+    "http": "0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.32",
+    "monero-nodejs": "^1.0.4",
+    "msexcel-builder": "^0.0.2",
+    "node-crontab": "0.0.8",
+    "node-fetch": "^2.6.1",
+    "node-libcurl": "^2.3.0",
+    "node-telegram-bot-api": "^0.50.0",
+    "nodemailer": "^2.7.2",
+    "plivo": "^4.2.0",
+    "pm2": "^4.5.0",
+    "qrcode": "^1.4.4",
+    "razorpay": "^2.0.6",
+    "request": "^2.88.2",
+    "speakeasy": "^2.0.0",
+    "telegram-bot-api": "^2.0.1",
+    "twilio": "^3.49.4",
+    "urllib": "^2.36.1",
+    "wallet-address-validator": "^0.2.4",
+    "winston": "^3.3.3",
+    "xoauth2": "^1.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "husky": "^4.3.7",
+    "lint-staged": "^10.5.3"
+  }
+}
